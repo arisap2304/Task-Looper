@@ -1,13 +1,33 @@
 {
-    "command": "shopee_promote",
-    "delay_start": 10,
-    "delay_end": 20,
-    "items": [{
-        "username": "example@gmail.com",
-        "password": "example-pass"
-    },
-    {
-        "username": "other_example@gmail.com",
-        "password": "other_example-pass"
-    }]
+	"command": "shopee_promote",
+	"delay_start": 10,
+	"delay_end": 20,
+	"items": [{
+		"username": "apriantoaris78@gmail.com",
+		"password": "Ip1n@Up1n"
+	}, {
+		"username": "abdulahmerapi1@gmail.com",
+		"password": "Ip1n@Up1n"
+	}, {
+		"username": "arisaprianto8@gmail.com",
+		"password": "Ip1n@Up1n"
+	}, {
+		"username": "liasilvia1@gmail.com",
+		"password": "Ip1n@Up1n"
+	}, {
+		"username": "other_example@gmail.com",
+		"password": "Ip1n@Up1n"
+	}, {
+		"username": "merapinanang@gmail.com",
+		"password": "Ip1n@Up1n"
+	}, {
+		"username": "yudikhusnul@gmail.com",
+		"password": "Ip1n@Up1n"
+	}, {
+		"username": "liafebrianti68@gmail.com",
+		"password": "Ip1n@Up1n"
+	}, {
+		"username": "LakitasaLoftis@gmail.com",
+		"password": "Ip1n@Up1n"
+	}]
 }
